@@ -9,7 +9,7 @@ public class FirstLogicController {
 
     @GetMapping("/get-first")
     public String getFirstStringWithCRUD(){
-        return "henv2";
+        return "henv";
     }
   
 }
